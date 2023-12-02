@@ -1,2 +1,2 @@
 # About :
-Passionate about webdesign for years, I have evolved over the time at different positions. After several certifications, I now position myself as a front-end developer even if I still evolve on back-end somedays. I love working with Sass, Bootstrap, Flexbox, HTML/CSS/JS, Symfony, Twig, Figma, Webpack, Bedrock, Timber (non-exhaustive list)...
+Passionate about webdesign for years, I have evolved over the time at different positions. After several certifications, I now position myself as a front-end developer.
